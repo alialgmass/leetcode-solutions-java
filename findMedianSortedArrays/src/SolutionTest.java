@@ -1,13 +1,12 @@
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import org.junit.jupiter.api.Test;
-
+import org.junit.Test;
+import static org.junit.jupiter.api.Assertions.*;
 public class SolutionTest {
 
     private final Solution solution = new Solution();
 
     @Test
-    void testOddTotalLength() {
+    public void testOddTotalLength() {
         int[] nums1 = {1, 3};
         int[] nums2 = {2};
 
@@ -17,7 +16,7 @@ public class SolutionTest {
     }
 
     @Test
-    void testEvenTotalLength() {
+    public void testEvenTotalLength() {
         int[] nums1 = {1, 2};
         int[] nums2 = {3, 4};
 
@@ -27,7 +26,7 @@ public class SolutionTest {
     }
 
     @Test
-    void testOneEmptyArray() {
+    public void testOneEmptyArray() {
         int[] nums1 = {};
         int[] nums2 = {1};
 
@@ -37,7 +36,7 @@ public class SolutionTest {
     }
 
     @Test
-    void testDifferentSizes() {
+    public void testDifferentSizes() {
         int[] nums1 = {1, 5, 8};
         int[] nums2 = {2, 3};
 
@@ -47,7 +46,7 @@ public class SolutionTest {
     }
 
     @Test
-    void testNegativeNumbers() {
+    public void testNegativeNumbers() {
         int[] nums1 = {-5, -3, -1};
         int[] nums2 = {-2, 0, 2};
 
@@ -57,7 +56,7 @@ public class SolutionTest {
     }
 
     @Test
-    void testSingleElementEach() {
+    public void testSingleElementEach() {
         int[] nums1 = {1};
         int[] nums2 = {2};
 
