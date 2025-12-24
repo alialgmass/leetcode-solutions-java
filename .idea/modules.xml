@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/findMedianSortedArrays/findMedianSortedArrays.iml" filepath="$PROJECT_DIR$/findMedianSortedArrays/findMedianSortedArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_leet_code.iml" filepath="$PROJECT_DIR$/.idea/java_leet_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/maximum-average-subarray/maximum-average-subarray.iml" filepath="$PROJECT_DIR$/maximum-average-subarray/maximum-average-subarray.iml" />
     </modules>
