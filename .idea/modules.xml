@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/minimum-size-subarray-sum/minimum-size-subarray-sum.iml" filepath="$PROJECT_DIR$/minimum-size-subarray-sum/minimum-size-subarray-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.iml" filepath="$PROJECT_DIR$/number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/running-sum-of-1d-array/running-sum-of-1d-array.iml" filepath="$PROJECT_DIR$/running-sum-of-1d-array/running-sum-of-1d-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valid-anagram/valid-anagram.iml" filepath="$PROJECT_DIR$/valid-anagram/valid-anagram.iml" />
     </modules>
   </component>
 </project>
