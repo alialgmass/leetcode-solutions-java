@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/add-two-numbers/add-two-numbers.iml" filepath="$PROJECT_DIR$/add-two-numbers/add-two-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/findMedianSortedArrays/findMedianSortedArrays.iml" filepath="$PROJECT_DIR$/findMedianSortedArrays/findMedianSortedArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_leet_code.iml" filepath="$PROJECT_DIR$/.idea/java_leet_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.iml" filepath="$PROJECT_DIR$/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/maximum-average-subarray/maximum-average-subarray.iml" filepath="$PROJECT_DIR$/maximum-average-subarray/maximum-average-subarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/maximum-distance-in-arrays/maximum-distance-in-arrays.iml" filepath="$PROJECT_DIR$/maximum-distance-in-arrays/maximum-distance-in-arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/minimum-size-subarray-sum/minimum-size-subarray-sum.iml" filepath="$PROJECT_DIR$/minimum-size-subarray-sum/minimum-size-subarray-sum.iml" />
